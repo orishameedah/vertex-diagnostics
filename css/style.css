@@ -414,6 +414,9 @@ section {
         text-align: center;
         box-shadow: white;
     }
+    .home .slideTitle h2 {
+        color: #fff;
+    }
     .about p.about-desc {
         font-size: 20px;
     }
@@ -503,7 +506,13 @@ section {
         left: 50%;
         transform: translateX(-50%);
     }
+    .teams .tm .employers .employer-detail h3{
+        font-size: 13px;
+    }
+    .teams .tm .employers .employer-detail h5{
+        font-size: 12px;
+    }
     .teams .tm .employers .employer-detail p{
-        font-size: 9px;
+        font-size: 10px;
     }
 }
